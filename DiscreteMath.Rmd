@@ -1,0 +1,196 @@
+---
+title: "Discrete Math syllabus"
+author: "Juan Vazquez"
+date: "2 de mayo de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## I. Fundamentos de Matemáticas Discretas
+
+### conjuntos
+
+Definir los conceptos de lógica computacional,  teoría de conjuntos y su relacion.
+
+Explicar los procedimientos de Álgebra de conjuntos: 
+
+* Conjuntos y subconjuntos 
+* Conjunto vacío 
+- Conjuntos disjuntos 
+- Igualdad
+- Inclusión 
+- Diagramas de Venn
+
+Describir las operaciones fundamentales entre conjuntos: 
+
+- Unión
+- Intersección 
+- Complemento
+- Diferencia
+
+Describir las operaciones compuestas entre conjuntos
+
+Explicar el desarrollo axiomático de conjuntos.
+
+Explicar las relaciones entre conjuntos y sus propiedades: 
+
+- Binarias
+- Recíprocas
+- Reflexivas
+- Simétricas 
+- Antisimétricas 
+- Transitivas
+- Equivalencia
+
+### Funciones
+Describir los tipos de funciones: 
+
+- Inyectiva, 
+- Suprayectiva, 
+- Biyectiva, 
+- Inversa,
+- Funciones numéricas reales, 
+- Funciones características,
+- Funciones de elección,
+- Operaciones: Composición, permutación.
+
+### Análisis Combinatorio
+
+Describir las técnicas de conteo:
+
+-Permutaciones
+-Combinaciones
+
+Describir la Inducción matemática
+
+Explicar el procedimiento para elaboración de modelos abstractos
+
+
+## Lógica
+
+### Lógica de proposiciones
+Definir los conceptos de Proposición y Lógica proposicional.
+
+Describir las características del Lenguaje Natural
+
+Explicar los tipos de proposiciones y su sintaxis:
+
+- Proposiciones simples y compuestas,
+- Conectivas lógicas y cuantificadores,
+- Formulas bien formadas.
+
+Explicar la semantica y operaciones de las fórmulas:
+
+- Conjunción,
+- Negación,
+- Disyunción,
+- Implicación,
+- Bicondicional.
+- Tablas de verdad de proposiciones,
+- Tautologías,
+- Contradicciones.
+
+### Lógica de predicados
+Describir los conceptos básicos de lógica de predicados:
+
+- Predicados de primer orden
+- Predicados monádico y poliádico
+- Predicados contradictorios recíprocamente
+
+Explicar el cálculo de predicados y su sintaxis:
+
+- Elementos: término, predicado y conectivo,
+- Símbolos
+- Cuantificadores
+- Evaluación de fórmulas
+- Fórmulas prenexas
+- Reglas para la negación con cuantificadores
+
+
+
+## Métodos demostrativos
+
+### Conceptos básicos
+Definir conceptos de: 
+
+- Razonamiento
+- Razonamiento válido
+- Argumentos
+- Demostración
+- Teorema
+- Corolario
+- Lema
+
+### Reglas de inferencia en lógica proposicional y lógica de predicados
+Diferenciar entre lógica proposicional y lógica de predicados. 
+
+Explicar las reglas de inferencia :
+
+- Modus ponens,
+- Modus Tollens,
+- Silogismo hipotético,
+- Silogismo disyuntivo,
+- Adición disyuntiva,
+- Adición conjuntiva,
+- Simplificación conjuntiva,
+- Dilema constructivo,
+- Dilema destructivo,
+- Contradicción,
+- Demostración condicional,
+- Demostración por casos.
+
+### Métodos demostrativos
+Explicar los métodos de demostración:
+
+- Demostración directa
+- Demostración por contradicción
+- Demostración contrapositiva
+- Método exhaustivo
+- Método deductivo
+- Método inductivo
+
+## Referencias 
+
+Pedro Chávez Calderon,  Matemáticas discretas: aplicaciones y ejercicios
+México, Grupo Editorial Patria 2014, 978-9702402640
+
+Dov M. Gabbay, Jörg H. Siekmann, Computational Logic, Volume 9 (Handbook of th… (Hardcover)
+Oxford, UK, Elsevier 2014, 978-0444516244
+
+Jacob T. Schwartz, Domenico Cantone, Eugenio G. Omodeo, Martin Davis
+Computational Logic and Set Theory: Applying Formalized Logic to Analysis
+USA, Springer 2011; 978-0857298072
+
+Sussana S. Epp, Matemáticas Discretas con Aplicaciones
+Cenagage learning 2012, 9786074816211
+
+Dov Gabbay, Ian Hodkinson, and Mark Reynolds, 
+Temporal Logic: Mathematical Foundations and Computational Aspects Volume 1
+Oxford, UK 978-0198537694
+
+Dr. Luis Enrique Sucar Succar, Dra. Angélica Muñoz Meléndez
+Matemáticas Discretas
+http://ccc.inaoep.mx/~esucar/Clases-md/md-sesion01a-conjuntos.pdf
+
+Wolfram Alpha
+http://wolframalpha.com
+
+
+## Observaciones
+
+### Sobre faltas
+
+* Para aprobar la materia se requiere obligatoriamente 80% de asistencia en el total de la duración del curso.
+* Las inasistencias por eventos y asuntos médicos se ven directamente en secretaría académica.
+* Se consideran 10 minutos de tolerancia al inicio de la clase para contar con la asistencia completa. No hay retardos.
+
+### Sobre calificación
+
+* Se calificarán 3 períodos ordinarios y uno para recuperar los exámenes reprobados al final del ciclo cuatrimestral.
+* En cada período el examen vale 65% y las tareas valen 35%. Hay posibilidad de puntos extras.
+* Es posible entregar hasta 1 tarea después de la fecha de entrega oficial por cada período. Por lo demás no hay prórroga (La Ley de Parkinson, enunciada por el británico Cyril Northcote Parkinson en 1957, afirma que "el trabajo se expande hasta llenar el tiempo disponible para que se termine".)
+* Las calificaciones de cada período las entrego a más tardar 1 semana después. 
+
